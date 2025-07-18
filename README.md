@@ -1,5 +1,4 @@
-## Hi there 👋
-
+![Image](https://github.com/user-attachments/assets/03e32c34-7f77-45c5-80bf-f42d431b8ff7)
 <!--
 **dosorida/dosorida** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
